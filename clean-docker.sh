@@ -1,3 +1,4 @@
+#! /usr/bin/python
 import shlex
 from subprocess import Popen, PIPE
 
